@@ -22,7 +22,6 @@ public class TipCalculatorServiceTestDrive {
         
         
         
-        
         //second -  try food service tip calculator
         InputTipCalculator foodTiptwo = new FoodServiceTipCalculator();
         OutputTipCalculator showTipTwo = new OutputTipCalculatorGUI();
